@@ -4,6 +4,12 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 
+#displayArea {
+  position: relative;
+  width: 910px;
+  height: 655px;
+}
+
 #board {
   position: relative;
   width: 910px;
